@@ -4,4 +4,4 @@ EN: This is a pack of updated blue icons for 7z, styled for Windows 11.
 
 Preview:
 
-![](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/blob/main/images/BIOS_rev.png)
+![](https://github.com/PONYASHIN/7zBlueIconsWindows11/blob/main/IconsPreview.png)
